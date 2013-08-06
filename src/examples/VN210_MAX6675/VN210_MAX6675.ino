@@ -56,7 +56,7 @@ const int thermoCLK = A1;
 float tempValue;
 
 const int SAMPLE_PERIOD_MILLIS = 1000;
-const int UPDATE_PERIOD_MILLIS = 60000;
+const long UPDATE_PERIOD_MILLIS = 60000;
 
 //max6675 breakout board driver
 MAX6675 thermocouple(thermoCLK, thermoCS, thermoDO);
