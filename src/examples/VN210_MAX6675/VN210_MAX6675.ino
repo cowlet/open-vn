@@ -134,4 +134,6 @@ void update_scada_registers() {
 
     Serial.println("Updated UAP (SCADA) registers to:");
     temperatureRegister.print();
+    /* Reset for the next time period */
+    temperatureRegister.reset();
 }
