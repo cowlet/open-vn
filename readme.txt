@@ -23,6 +23,9 @@ AVR SPI support is supplied by the "SPI Helper" library under the MIT licence:
  * spi_hepler.c											AVR SPI Helper library source
  * spi_helper.h											AVR SPI Helper library header
 
+ * SCADARegister.cpp                Data storage helper source
+ * SCADARegister.h                  Data storage helper header
+
 == Using the library ==
 
 The project can also be used with Arduino.  Check out the project and symlink the "src" directory to
