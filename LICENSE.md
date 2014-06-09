@@ -1,6 +1,6 @@
-The hardware designs within the Eagle files are covered by the [Creative Commons Attribution License][ccby4].
+The hardware designs within the Eagle files are covered by the [Creative Commons Attribution Sharealike License][ccbysa4].
 
-[ccby4]: http://creativecommons.org/licenses/by/4.0/
+[ccbysa4]: http://creativecommons.org/licenses/by-sa/4.0/
 
 ---
 
